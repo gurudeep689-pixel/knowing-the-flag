@@ -1,0 +1,15 @@
+The Shell
+Luke Jones
+The Shell is foundational to so many parts of securing computing devices and their networks. Intimidating and alluring (like most symbols enshrined by film makers), understanding the shell can make or break one’s ability to solve challenges in a capture-the-flag competition like picoCTF.
+
+To be transparent, I (LT) am still learning a lot about the shell, and I’m just about 10 years into it right now! This is an encouragement - anyone curious enough to jump into rabbit holes here and there is always going to have opportunities to learn more about an amazing tool like the shell. But rest assured, I was proficient in the shell long ago and it does not take very much time before the shell starts working for you.
+
+Next up, what is that mystique unique to the hacker and their shell?
+
+2.1. Symbol of the Hacker
+A blank, black screen and blinking cursor. Lines and lines of scrolling text and someone in front of that screen who seemingly understands an incomprehensible flow of information. That is the shell.
+
+The shell has many other names: the terminal, the command prompt, bash…​PowerShell, if you’re looking at Windows and feeling blue. Each name has its own nuances. But that doesn’t matter right now. What matters is that there is the interface to computing devices that nearly all people use, and then there is the shell.
+
+If you’ve come here to get a shell and don’t care for much else, then you should skip to the Get a Shell section. Be warned that the shell is more powerful than the usual way of interacting with a device. Deleting files is permanent in the shell, any file can be accessed at any moment in the shell, and hopefully it’s not farfetched to assert that those two things are a dangerous combination.
+
